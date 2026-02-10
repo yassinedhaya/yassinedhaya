@@ -72,7 +72,7 @@ Here are a few of my highlighted projects:
 - **TRICO – AI Virtual Companion:** AI-powered assistant with voice cloning and personalization.  
 - **Metaxpo – 3D Events Platform:** Full immersive 3D platform for events.
 
-Check out my full portfolio [here](https://yassinedhaya.github.io).
+Check out my full portfolio [here](https://yassinedhaya.github.io/my-portfolio).
 
 ---
 
