@@ -185,9 +185,20 @@ Monte Carlo Tree Search powered game in Unity WebGL. Fully playable in the brows
 
 ---
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="80">
+  <defs>
+    <linearGradient id="footer-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 C300,80 900,80 1200,0 L1200,120 L0,120 Z" fill="url(#footer-grad)"/>
+</svg>
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=yassinedhaya&icon=6&color=6)
 
