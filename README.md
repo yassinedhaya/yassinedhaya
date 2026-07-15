@@ -147,12 +147,12 @@ Monte Carlo Tree Search powered game in Unity WebGL. Fully playable in the brows
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yassinedhaya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinedhaya&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=yassinedhaya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yassinedhaya&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=yassinedhaya&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=yassinedhaya&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 
