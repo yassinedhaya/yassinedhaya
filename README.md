@@ -1,103 +1,194 @@
-# 👋 Hi, I'm Yassine Dhaya
+<div align="center">
 
-🎮 **Full-Stack & XR Developer | AI Enthusiast | VR/AR Creator**  
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yassine%20Dhaya&fontSize=70&fontColor=00f5ff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20%E2%80%A2%20XR%20%2F%20AR%20%2F%20VR%20%E2%80%A2%20AI%20Engineer&descAlignY=75&descSize=18&descColor=c084fc" width="100%"/>
 
-Welcome to my portfolio! I build immersive experiences, intelligent applications, and elegant web/mobile solutions. I love pushing technology to create meaningful and interactive experiences.
+</div>
 
----
+<div align="center">
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yassinedhaya) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/yassine.dhaya)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/yassinedhaya)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:yassinedhaya123@gmail.com)
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░  "I don't just write code — I build worlds."              ░
+░   Web platforms  ·  Immersive XR  ·  AI-powered systems  ░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
----
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_Now-00f5ff?style=for-the-badge&labelColor=0d1117)](https://yassinedhaya.github.io/my-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/yassinedhaya)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-c084fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:yassinedhaya123@gmail.com)
 
-## 💻 Tech Stack
-
-### Programming & Scripting
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Web & Mobile
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF?style=for-the-badge&logo=Ionic&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Database & Backend
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
-### XR & Game Development
-![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/UnrealEngine-%23313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
-
-### AI & Data Science
-![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Projects & Portfolio
-Here are a few of my highlighted projects:
+## ⚡ Who Am I?
 
-- **Tic Tac Toe – MCTS AI:** Unity WebGL game with strategic AI.  
-- **T-Booky – Book Exchange App:** Flutter mobile app for sharing books.  
-- **LaughRoom – Multiplayer VR Social Game:** VR experience to socialize and play.  
-- **TRICO – AI Virtual Companion:** AI-powered assistant with voice cloning and personalization.  
-- **Metaxpo – 3D Events Platform:** Full immersive 3D platform for events.
+```yaml
+name:        Yassine Dhaya
+role:        Full-Stack Engineer · XR Developer · AI Integrator
+experience:  3+ years building production systems & immersive experiences
+location:    Tunisia 🇹🇳  →  Open to Europe 🇪🇺 (Visa Sponsorship Welcome)
+teaching:    XR Instructor @ ESPRIT (Unity · AR · VR for 4th-year AI students)
+languages:   TypeScript · JavaScript · C# · Python · Dart
+currently:   Building the future — one commit at a time
+```
 
-Check out my full portfolio [here](https://yassinedhaya.github.io/my-portfolio).
+<details>
+<summary><b>🧬 More about me</b></summary>
+<br>
 
----
+- 🎮 I build **immersive XR experiences** with Unity, MRTK, and ARCore — from VR social games to enterprise AR tools
+- 🤖 I integrate **AI & LLMs** into real products (Google Gemini, Oracle AI) — not just demos
+- 🏗️ I architect and ship **full-stack SaaS platforms** at scale, with Angular, React, Node.js & PostgreSQL
+- 🚀 I'm **EU Blue Card eligible** and actively targeting engineering roles in Europe
+- 🎓 Engineering Degree (Master's equivalent) in CS + Extended Reality — ESPRIT Tunisia
+- 🏆 **Top 3** at ESPRIT Bal de Projet 2024 with an original VR experience
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinedhaya&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=yassinedhaya&theme=dracula&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinedhaya&theme=dracula&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=yassinedhaya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## ✍️ Daily Dev Quote
-> "Code is like humor. When you have to explain it, it’s bad."  
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</details>
 
 ---
 
-## 💰 Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yassinedhaya)  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yassinedhaya)
+## 🛠️ My Arsenal
+
+<div align="center">
+
+### 🌐 Frontend & Mobile
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### 🐳 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white)
+
+### 🥽 XR & Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=flat-square&logo=google&logoColor=white)
+![MRTK](https://img.shields.io/badge/MRTK-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+### 🤖 AI & Data
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+
+</div>
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=yassinedhaya&icon=0&color=0)
+## 🚀 Flagship Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Metaxpo](https://yassinedhaya.github.io/my-portfolio)
+**3D Immersive Events Platform**
+
+A real-time cloud platform delivering fully immersive 3D event experiences. Built as my engineering capstone with a full production stack.
+
+`TypeScript` `Node.js` `PostgreSQL` `WebGL` `Docker` `AWS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [TRICO](https://yassinedhaya.github.io/my-portfolio)
+**AI Virtual Companion** · *Google Gemini Dev Competition 2024*
+
+Voice-cloning + Gemini-powered AI companion with deep personalization. Competed in Google's global developer competition.
+
+`Python` `Google Gemini API` `Voice AI` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [LaughRoom](https://yassinedhaya.github.io/my-portfolio)
+**Multiplayer VR Social Game** · *🏆 Top 3 ESPRIT Bal de Projet*
+
+A VR social game for spontaneous connection and play. Award-winning XR experience built with Unity + Photon networking.
+
+`Unity` `C#` `VR` `Photon SDK` `MRTK`
+
+</td>
+<td width="50%" valign="top">
+
+### ♟️ [MCTS AI Tic-Tac-Toe](https://yassinedhaya.github.io/my-portfolio)
+**Strategic AI in the Browser**
+
+Monte Carlo Tree Search powered game in Unity WebGL. Fully playable in the browser with an unbeatable AI.
+
+`Unity` `C#` `WebGL` `MCTS Algorithm`
+
+</td>
+</tr>
+</table>
+
+> 🔗 **See all projects with live demos →** [yassinedhaya.github.io/my-portfolio](https://yassinedhaya.github.io/my-portfolio)
+
+---
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yassinedhaya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinedhaya&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=yassinedhaya&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yassinedhaya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 🎯 What I'm Looking For
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                 🚀 OPEN TO OPPORTUNITIES                     ║
+╠══════════════════════════════════════════════════════════════╣
+║  Role    →  Full-Stack / XR / AI Software Engineer          ║
+║  Level   →  Mid-level (3+ years)                            ║
+║  Where   →  Europe — Germany, Ireland, Netherlands & more   ║
+║  Status  →  EU Blue Card eligible · Visa sponsorship OK     ║
+║  Remote  →  Hybrid / On-site preferred                      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**Let's build something extraordinary together.**
+[📧 yassinedhaya123@gmail.com](mailto:yassinedhaya123@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/yassinedhaya) · [🌍 Portfolio](https://yassinedhaya.github.io/my-portfolio)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=yassinedhaya&icon=6&color=6)
+
+</div>
