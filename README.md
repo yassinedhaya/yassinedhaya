@@ -185,8 +185,6 @@ Monte Carlo Tree Search powered game in Unity WebGL. Fully playable in the brows
 
 ---
 
----
-
 <div align="center">
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="80">
